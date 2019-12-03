@@ -4,14 +4,11 @@ Wrinkle Detection over the upper part of the footwear in leather.
 
 # Global Descriptors
 
-Hu Moments
-Haralick Features
-Intensity Histogram
+Hu Moments, Haralick Features, Intensity Histogram
 
 # Classification Methods
 
-SVM Linear
-KNN
+SVM Linear and KNN classifiers
 
 # Process
 
