@@ -16,4 +16,19 @@ A data set for training and testing is required. The first cell of the code runs
 
 The testing and machine learning methods of KNN and SVM Linear are used with a previous standarization of the data. The testing data is read, features are extracted the same way and data is transoformed to validate the results by calculating accuracy, precision, specificity, sensitivity and error.
 
-Note: The data set and any further information can be required at sasb1989@gmail.com
+# Environment:
+
+- Anaconda
+- Spyder
+- Python 3.7
+
+# Libraries
+
+- OpenCV
+- Scikit-Image
+- Scikit-Learn
+- Haralick Features
+
+# Note 
+
+The data set and any further information can be required at sasb1989@gmail.com
